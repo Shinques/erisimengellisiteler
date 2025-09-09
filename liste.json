@@ -1,5 +1,7 @@
-[
-    "truvamc.com.tr",
-    "testbaba.com.tr",
-    "lunexmc.com.tr"
-]
+{
+  "version": "1.0.1",
+  "blocked_sites": [
+    "mangoohost.com.tr",
+    "31ddwdw.com"
+  ]
+}
